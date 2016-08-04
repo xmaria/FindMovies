@@ -1,5 +1,5 @@
 {
-  "name": "findrestaurant",
+  "name": "findmoviest",
   "version": "1.0.0",
   "description": "Search Movies from OMDB",
   "main": "main.js",
