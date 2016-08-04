@@ -1,0 +1,39 @@
+{
+  "name": "findrestaurant",
+  "version": "1.0.0",
+  "description": "Search Movies from OMDB",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015",
+            "react"
+          ]
+        }
+      ]
+    ]
+  },
+  "author": "Maria",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "*",
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "object-assign": "*",
+    "vinyl-source-stream": "*"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "superagent": "^2.1.0"
+  }
+}
