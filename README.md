@@ -8,3 +8,10 @@ Clone the repository
     gulp
 ```
 Right click file ````findmovie\dist\index.html ``` open in browser
+
+![Moviefinder1](https://github.com/xmaria/FindMovies/blob/master/Screenshots/InitialPage.jpg)
+___
+![Moviefinder2](https://github.com/xmaria/FindMovies/blob/master/Screenshots/Result-1.jpg)
+___
+![Moviefinder3](https://github.com/xmaria/FindMovies/blob/master/Screenshots/Result-2.jpg)
+
